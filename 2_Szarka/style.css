@@ -1,0 +1,33 @@
+a  {color: crimson;}
+
+div {text-align: center;}
+
+
+h2{color: crimson;}
+
+table{width: 400px;
+text-align: center;}
+
+.center {margin-left: auto;
+margin-right: auto;}
+
+.kep1{ height: 153px;
+width: 230px;
+border: 1px  solid  black ;}
+
+.kep2{ height: 153px;
+    width: 230px;
+   float: right;
+border: 1px  solid  black ;}
+
+.tabla2{width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    border-collapse: collapse;}
+
+.tabla2 td{padding: 6px;
+margin: 6px solid black;}
+
+.tabla2 h2{ color: aliceblue;
+background-color: crimson;}
